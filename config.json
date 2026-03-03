@@ -14,15 +14,17 @@
     "organization": "OWASP",
     "timeline": "May 2026 - September 2026",
     "repositories": [
-      "https://github.com/OWASP-BLT/BLT-Next"
+      "https://github.com/OWASP-BLT/BLT-Next",
+      "https://github.com/OWASP-BLT/BLT-GSOC/",
+      "https://github.com/aimaan-ayaz/MY-GSOC-TOOL"
     ]
   },
   "slack": {
-    "workspaceUrl": "https://your-org.slack.com/join/shared_invite/xxx",
+    "workspaceUrl": "https://owasp.slack.com",
     "channels": [
-      "general",
-      "gsoc-2024",
-      "your-project-channel"
+      "project-blt",
+      "gsoc-2026",
+      "owasp-community"
     ]
   }
 }
