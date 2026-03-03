@@ -32,7 +32,7 @@ jobs:
 
       - name: Fetch GitHub contributions
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           node scripts/fetch-github-data.js
 
