@@ -1,21 +1,20 @@
 {
   "student": {
-    "name": "Your Name",
+    "name": "Aimaan Ayaz",
     "bio": "Google Summer of Code Contributor",
-    "avatar": "https://github.com/yourusername.png",
-    "github": "https://github.com/yourusername",
-    "email": "your.email@example.com",
+    "avatar": "https://github.com/aimaan-ayaz.png",
+    "github": "https://github.com/aimaan-ayaz",
+    "email": "iamaimaanayaz@gmail.com",
     "blog": "https://yourblog.dev",
-    "linkedin": "https://linkedin.com/in/yourprofile"
+    "linkedin": "https://www.linkedin.com/in/aimaan-ayaz-b969002a3/"
   },
   "project": {
-    "title": "Your GSoC Project Title",
-    "description": "A brief description of your GSoC project and what you're working on. Explain the problem you're solving and the impact of your work.",
-    "organization": "Your Organization",
+    "title": "Modernizing BLT-Next & UI/UX Optimization",
+    "description": "I am currently working on improving the overall user experience and the frontend architecture of the BLT-Next platform. My focus is to simplify the core workflows of the application using HTMX and Tailwind CSS, making it faster, more responsive, and intuitive for the community to use. My current focus is on setting up consistent UI patterns and addressing usability issues for the entire web application.",
+    "organization": "OWASP",
     "timeline": "May 2026 - September 2026",
     "repositories": [
-      "https://github.com/YourOrg/Repository-1",
-      "https://github.com/YourOrg/Repository-2"
+      "https://github.com/OWASP-BLT/BLT-Next"
     ]
   },
   "slack": {
